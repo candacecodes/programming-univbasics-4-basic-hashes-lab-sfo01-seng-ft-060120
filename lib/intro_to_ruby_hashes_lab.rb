@@ -1,9 +1,9 @@
 def new_hash
-  new_hash = { }
+  hash = { }
 end
 
 def my_hash
-  my hash = {key: object}
+  my_hash = {key: object}
 end
 
 def pioneer
