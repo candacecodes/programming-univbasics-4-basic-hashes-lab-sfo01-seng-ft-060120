@@ -3,11 +3,11 @@ def new_hash
 end
 
 def my_hash
-  my_hash = {key: "object"}
+  my_hash = { key: "object" }
 end
 
 def pioneer
-  pioneer = {name: "Grace Hopper"}
+  pioneer = { name: "Grace Hopper" }
 end
 
 
